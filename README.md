@@ -147,7 +147,3 @@ Both parts leverage Java RMI (Remote Method Invocation) to facilitate communicat
 
 - **ADD**: Adds two integers.
 - **SORT**: Sorts a list of integers.
-
-## Contributions
-
-Contributions are welcome! Please create an issue or submit a pull request with your changes.
